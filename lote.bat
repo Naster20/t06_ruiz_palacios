@@ -9,3 +9,7 @@ python ruiz/simple02.py 9.5 50
 python ruiz/simple03.py "Ruiz" 15 16 17
 python ruiz/simple03.py "Arevalo" 15 12 11
 python ruiz/simple03.py "Carlos" 15 12 14
+
+python ruiz/simple04.py "Alexander" 19
+python ruiz/simple04.py "Jhovany" 15
+python ruiz/simple04.py "claudia" 18
