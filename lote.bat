@@ -13,3 +13,8 @@ python ruiz/simple03.py "Carlos" 15 12 14
 python ruiz/simple04.py "Alexander" 19
 python ruiz/simple04.py "Jhovany" 15
 python ruiz/simple04.py "claudia" 18
+
+python ruiz/simple05.py "Carlos" 89.90 80.0
+python ruiz/simple05.py "Marlon" 75.90 70.0
+python ruiz/simple05.py "Rocky" 89.90 80.0
+
